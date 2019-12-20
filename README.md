@@ -35,9 +35,9 @@ Tras descargar el archivo, descomprimalo y siga las siguientes instrucciones.
 ## Uso
 Al instalar y correr el programa, podrá observar que se genera una ventana con dos pestañas, cada una representa un circuito diferente. Los circuitos mostrados son los circuitos RC y RL para cada circuito los valores ingresados son diferentes. A continuación se explicaran brevemente los campos a ingresar.
 
-   • Circuitos LR: En este circuito el usuario necesita introducir los valores de los componentens del circuito en este caso son: voltaje, la resistencia, así como el inductor. Además para poder ejecutar bien los calculos necesarios para el desarrollo del problema se pide los parámetros iniciales como lo es la corriente evaluado en cero, y el cambio en el tiempo (dt), además del límite superior de la gráfica, y lo más importante el tiempo en donde desea evaluar el circuito.
+   - Circuitos LR: En este circuito el usuario necesita introducir los valores de los componentens del circuito en este caso son: voltaje, la resistencia, así como el inductor. Además para poder ejecutar bien los calculos necesarios para el desarrollo del problema se pide los parámetros iniciales como lo es la corriente evaluado en cero, y el cambio en el tiempo (dt), además del límite superior de la gráfica, y lo más importante el tiempo en donde desea evaluar el circuito.
    
-   • Circuitos RC: En este circuito el usuario necesita introducir los valores de los componentes del circuito en este caso: voltaje, la resistencia, así como el inductor. Además para poder ejecutar bien los calculos necesarios para el desarrollo del problema se pide los parámetros iniciales como lo es el voltaje evaluado en cero, y el cambio en el tiempo (dt), además del límite superior de la gráfica.
+   - Circuitos RC: En este circuito el usuario necesita introducir los valores de los componentes del circuito en este caso: voltaje, la resistencia, así como el inductor. Además para poder ejecutar bien los calculos necesarios para el desarrollo del problema se pide los parámetros iniciales como lo es el voltaje evaluado en cero, y el cambio en el tiempo (dt), además del límite superior de la gráfica.
 
 
 ## Resultados Obtenidos
