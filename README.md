@@ -7,14 +7,13 @@ Proyecto Final de Tópicos Especiales I (Python) - Mediante la capacidad de reso
 
 -----Instalación-----
 
- •Librerias Necesarias
-   Para instalar el proyecto y que este ejecute de manera local es neceario tener las
-   siguientes librerias instaladas en su python
-       • NumPy 
-       • SciPy
-       • Matplotlib (Versión superior a 1.5)
-       • wxPython 
-Nota: Para descargar o actualizar las librerias utilice el comando "pip install <Nombre de la libreria>". En caso de no tener pip en su python, siga las instrucciones siguientes : "https://www.liquidweb.com/kb/install-pip-windows/"
+ •Librerias Necesarias 
+Para instalar el proyecto y que este ejecute de manera local es neceario tener las siguientes librerias instaladas en su python. Y para una mejor ejecución de la misma, se recomiendan las siguientes versiones. Con versiones posteriores o anteriores no se asegura el buen funcionamiento del programa.
+       • NumPy  (1.17)
+       • SciPy (1.3.0)
+       • Matplotlib (Versión usable - 1.51 hasta 3.03)
+       • wxPython ( 4.07)
+Nota: Para descargar o actualizar las librerias utilice el comando "pip install <Nombre de la libreria>". En caso de no tener pip en su python, siga las instrucciones siguientes : [Instalar Pip en Windows] (https://www.liquidweb.com/kb/install-pip-windows/)
 
 
 
