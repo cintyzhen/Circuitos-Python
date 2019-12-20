@@ -1,5 +1,4 @@
 # Circuitos-Python
-----Descripción del Proyecto-----
 Proyecto Final de Tópicos Especiales I (Python) - Mediante la capacidad de resolver ecuaciones de python, se resolverá circuitos RC y LR cuyos valores serán introducidos por el usuario, posteriormente se genera una gráfica que permite observar los cambios en el circuito. 
 
 -----Tabla de Contenido-------
@@ -11,10 +10,10 @@ Proyecto Final de Tópicos Especiales I (Python) - Mediante la capacidad de reso
  •Librerias Necesarias
    Para instalar el proyecto y que este ejecute de manera local es neceario tener las
    siguientes librerias instaladas en su python
-       NumPy 
-       SciPy
-       Matplotlib (Versión superior a 1.5)
-       wxPython 
+       • NumPy 
+       • SciPy
+       • Matplotlib (Versión superior a 1.5)
+       • wxPython 
 Nota: Para descargar o actualizar las librerias utilice el comando "pip install <Nombre de la libreria>". En caso de no tener pip en su python, siga las instrucciones siguientes : "https://www.liquidweb.com/kb/install-pip-windows/"
 
 
