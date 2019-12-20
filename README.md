@@ -45,9 +45,9 @@ Para el circuito RL se generará el valor de la corriente tras pasar el tiempo i
 Para el circuito RC se generará el valor del voltaje tras pasar el tiempo ingresado por el usuario, además saldrá una nueva pantalla donde podrá observar el comportamiento del voltaje en el circuito. 
 
 ## Créditos
-   Autores del Proyecto.
-• Adeel Gajia       adeel.gajia@utp.ac.pa
-• Jeremías Herrera  jeremias.herrera1@utp.ac.pa}
-• Cinty Zhen        cinty.zhen@utp.ac.pa
+Autores del Proyecto.
+- Adeel Gajia       adeel.gajia@utp.ac.pa
+- Jeremías Herrera  jeremias.herrera1@utp.ac.pa}
+- Cinty Zhen        cinty.zhen@utp.ac.pa
   
-*Queremos hacer en esta sección un agradecimiento al profesor Javier Sanchez Galán, por su guía y por responder todas las dudas que se tenía con respecto a los diversos temas del trabajo. *
+Notaa: Queremos hacer en esta sección un agradecimiento al profesor Javier Sanchez Galán, por su guía y por responder todas las dudas que se tenía con respecto a los diversos temas del trabajo. 
